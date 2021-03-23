@@ -5,7 +5,7 @@
 <img src="image/1.png" width="300" height="600">
   
 <h3>SignIn<h3>
-<img src="image/1.png" width="300" height="600">
+<img src="image/2.png" width="300" height="600">
     
 <h3>SignUp<h3>
-<img src="image/1.png" width="300" height="600">
+<img src="image/3.png" width="300" height="600">
